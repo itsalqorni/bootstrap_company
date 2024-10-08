@@ -1,0 +1,17 @@
+.btn btn-primary {
+    width: 100%;
+}
+
+.card-body {
+    display: grid;
+}
+
+.container {
+    display: grid;
+}
+
+.contact-item {
+    display: flex;
+    padding: 0 1rem 1.5rem ;
+    gap: .5rem;
+}
